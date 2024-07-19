@@ -1,6 +1,6 @@
-# WooCommerce Dummy Payments Gateway
+# WooCommerce MMG Payment Gateway
 
-A dummy payment gateway for your WooCommerce development needs, with built-in support for subscriptions and the block-based checkout.
+A Mobile Money Guyana (MMG) payment gateway for your WooCommerce development needs, with built-in support for subscriptions and the block-based checkout.
 
 ### Building instructions
 
